@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marcelina\\Desktop\\calculadora\\calculadora.csproj": {}
+    "C:\\Users\\Marcelina\\Desktop\\Lab-project\\Semana1\\calculadora\\calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marcelina\\Desktop\\calculadora\\calculadora.csproj": {
+    "C:\\Users\\Marcelina\\Desktop\\Lab-project\\Semana1\\calculadora\\calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marcelina\\Desktop\\calculadora\\calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\Marcelina\\Desktop\\Lab-project\\Semana1\\calculadora\\calculadora.csproj",
         "projectName": "calculadora",
-        "projectPath": "C:\\Users\\Marcelina\\Desktop\\calculadora\\calculadora.csproj",
+        "projectPath": "C:\\Users\\Marcelina\\Desktop\\Lab-project\\Semana1\\calculadora\\calculadora.csproj",
         "packagesPath": "C:\\Users\\Marcelina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marcelina\\Desktop\\calculadora\\obj\\",
+        "outputPath": "C:\\Users\\Marcelina\\Desktop\\Lab-project\\Semana1\\calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marcelina\\AppData\\Roaming\\NuGet\\NuGet.Config",
